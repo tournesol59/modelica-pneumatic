@@ -1,0 +1,4 @@
+within ;
+package FluidWorks "Root package for FluidWorks library"
+  extends Modelica.Icons.Library2;
+end FluidWorks;
