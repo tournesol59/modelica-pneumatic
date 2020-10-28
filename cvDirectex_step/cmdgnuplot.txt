@@ -1,0 +1,9 @@
+set terminal png
+set output "cvDirectDemoVDP.png"
+set title "Computed VDP with Adams Functional"
+set xlabel "Time"
+set ylabel "y"
+plot sin(x) with lines
+pause -1 "Hit enter to continue"
+
+
